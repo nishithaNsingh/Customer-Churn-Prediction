@@ -77,10 +77,7 @@ pip install -r requirements.txt
 - Get the [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
 - Place `WA_Fn-UseC_-Telco-Customer-Churn.csv` in the project root
 
-5. **Train the model**
-```bash
-python train_model.py
-```
+5. **Run the cells in collab to download the models**
 
 This generates:
 - Model files (`.pkl`)
