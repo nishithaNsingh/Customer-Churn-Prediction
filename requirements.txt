@@ -1,0 +1,47 @@
+# Core Data Science Libraries
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn==1.6.1
+xgboost
+lightgbm
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Framework
+streamlit
+
+# Model Persistence
+joblib
+
+# Utilities
+python-dateutil
+pytz
+
+# Explainability (Optional)
+shap
+
+# API Development (Optional - if using FastAPI)
+fastapi
+uvicorn
+pydantic
+
+# Testing
+pytest
+pytest-cov
+
+# Jupyter Notebooks
+jupyter
+ipykernel
+notebook
+
+# Code Quality
+black
+flake8
+pylint
