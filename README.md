@@ -53,7 +53,7 @@ This project identifies customers at risk of churning, enabling proactive retent
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone [https://github.com/yourusername/customer-churn-prediction](https://github.com/nishithaNsingh/Customer-Churn-Prediction).git
 cd customer-churn-prediction
 ```
 
